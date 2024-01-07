@@ -63,4 +63,3 @@ extension ViewController: UIPickerViewDataSource, UIPickerViewDelegate {
           coinManager.getCoinPrice(for: selectedCurrency)
       }
 }
-
